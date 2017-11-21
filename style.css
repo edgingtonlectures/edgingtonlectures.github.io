@@ -23,19 +23,21 @@ div#body
   width:900px; } 
 div#head
 { border-bottom:1px solid;
+  border-color:#888;
   margin:0 auto;
   padding-bottom:10px;
   position:relative; }
 div#nav
-{ font-size:14px;
-  letter-spacing:0.8px;
+{ font-size:13px;
+  letter-spacing:0.7px;
   padding-bottom:5px;
   padding-top:12px; }
 h1
 { background-color:#fff;
   color:#000;
+  font-family:"Roboto Black",sans-serif;
   font-size:40px;
-  font-weight:bold;
+  font-weight:black;
   letter-spacing:0.3px;
   margin:0px;
   padding:10px 0 0;
@@ -43,20 +45,22 @@ h1
 h2
 { background-color:#fff;
   color:#000;
+  font-family:"Roboto Medium",sans-serif;
   font-size:18px;
-  font-weight:bold;
-  letter-spacing:0.3px;
+  font-weight:medium;
+  letter-spacing:0.2px;
   max-width:500px;
   padding:0 0 0; }
 h3
 { background-color:#fff;
   color:#000;
   display:inline;
-  font-size:16px;
+  font-size:15px;
   font-style:italic;
   font-weight:normal;
+  margin:0;
   max-width:500px;
-  padding:0 0 0; }
+  padding:0; }
 img.right
 { float:right; }
 li
@@ -70,7 +74,7 @@ p
 { background-color:#fff;
   color:#333;
   line-height:1.5;
-  max-width:550px;
+  max-width:533px;
   padding:0; }
 span
 { color:#ccc; }
