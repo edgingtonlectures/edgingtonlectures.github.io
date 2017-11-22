@@ -19,7 +19,7 @@ body
   width:900px; }
 div#body
 { margin:0 0 80px;
-  padding:20px 0 0;
+  padding:10px 0 0;
   width:900px; } 
 div#head
 { border-bottom:1px solid;
@@ -37,7 +37,6 @@ h1
   color:#000;
   font-family:"Roboto Black",sans-serif;
   font-size:40px;
-  font-weight:black;
   letter-spacing:0.3px;
   margin:0px;
   padding:10px 0 0;
@@ -47,7 +46,6 @@ h2
   color:#000;
   font-family:"Roboto Medium",sans-serif;
   font-size:18px;
-  font-weight:medium;
   letter-spacing:0.07px;
   max-width:500px;
   padding:0 0 0; }
