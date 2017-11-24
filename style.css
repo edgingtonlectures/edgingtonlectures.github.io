@@ -29,7 +29,7 @@ div#head
   position:relative; }
 div#nav
 { font-size:13px;
-  letter-spacing:0.7px;
+  letter-spacing:0.65px;
   padding-bottom:5px;
   padding-top:12px; }
 h1
@@ -37,10 +37,10 @@ h1
   color:#000;
   font-family:"Roboto Black",sans-serif;
   font-size:40px;
-  letter-spacing:0.3px;
+  letter-spacing:0.2px;
   margin:0px;
   padding:10px 0 0;
-  word-spacing:7px; }
+  word-spacing:6px; }
 h2
 { background-color:#fff;
   color:#000;
