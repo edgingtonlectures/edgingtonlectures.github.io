@@ -68,6 +68,15 @@ li
   margin:0;
   max-width:550px;
   padding:0; }
+li.nav
+{ display:inline-block;
+  line-height:1; }
+li.nav:before
+{ content:'/';
+  padding:0 5px 0; }
+li.nav:first-child:before
+{ content:'';
+  padding:0; }
 p
 { background-color:#fff;
   color:#333;
@@ -104,4 +113,7 @@ ul
   padding-left:24px;
   padding-top:0;
   padding-bottom:9px; }
-
+ul.nav
+{ margin:0;
+  max-width:none;
+  padding:0; }
